@@ -10,7 +10,7 @@
 
 #### Backend
 ```
-cd booking-service
+cd backend
 go run main.go
 ```
 

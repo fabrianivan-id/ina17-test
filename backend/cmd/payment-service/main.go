@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"os"
 
-	"concert-booking/internal/payment"
 	"concert-booking/pkg/database"
+	"concert-booking/pkg/internal/payment"
 	"concert-booking/pkg/middleware"
 
 	"github.com/gin-gonic/gin"

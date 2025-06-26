@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"os"
 
-	"concert-booking/internal/user"
 	"concert-booking/pkg/database"
+	"concert-booking/pkg/internal/user"
 
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"

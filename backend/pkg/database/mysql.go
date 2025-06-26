@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"concert-booking/internal/models" // adjust the import path as needed
+	"concert-booking/pkg/models" // adjust the import path as needed
 
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
